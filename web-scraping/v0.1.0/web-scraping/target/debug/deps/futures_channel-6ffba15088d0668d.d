@@ -1,0 +1,11 @@
+/home/suraj/Desktop/rust/Rust-Learning/web-scraping/v0.1.0/web-scraping/target/debug/deps/futures_channel-6ffba15088d0668d.rmeta: /home/suraj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/lib.rs /home/suraj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/lock.rs /home/suraj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/mpsc/mod.rs /home/suraj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/mpsc/queue.rs /home/suraj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/oneshot.rs
+
+/home/suraj/Desktop/rust/Rust-Learning/web-scraping/v0.1.0/web-scraping/target/debug/deps/libfutures_channel-6ffba15088d0668d.rlib: /home/suraj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/lib.rs /home/suraj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/lock.rs /home/suraj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/mpsc/mod.rs /home/suraj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/mpsc/queue.rs /home/suraj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/oneshot.rs
+
+/home/suraj/Desktop/rust/Rust-Learning/web-scraping/v0.1.0/web-scraping/target/debug/deps/futures_channel-6ffba15088d0668d.d: /home/suraj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/lib.rs /home/suraj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/lock.rs /home/suraj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/mpsc/mod.rs /home/suraj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/mpsc/queue.rs /home/suraj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/oneshot.rs
+
+/home/suraj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/lib.rs:
+/home/suraj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/lock.rs:
+/home/suraj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/mpsc/mod.rs:
+/home/suraj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/mpsc/queue.rs:
+/home/suraj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/oneshot.rs:
